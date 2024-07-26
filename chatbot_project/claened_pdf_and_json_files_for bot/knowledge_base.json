@@ -1,0 +1,652 @@
+{
+  "questions": [
+    {
+      "question": "What components make up the master examination?",
+      "answer": "The master examination consists of module and sub-module examinations, as well as coursework credits."
+    },
+    {
+      "question": "How are module examinations and credits defined?",
+      "answer": "Module examinations and credits are defined in the study and examination curriculum, accessible on Moodle."
+    },
+    {
+      "question": "What are the study programs offered by the School of Information, Media and Design?",
+      "answer": "The study programs offered are Applied Computer Science (M.Sc.) and Applied Data Science and Analytics (M.Sc.)."
+    },
+    {
+      "question": "How are course credits typically earned?",
+      "answer": "Course credits are usually earned through active participation in compulsory lectures, seminars, group work, self-study tasks, and other assignments."
+    },
+    {
+      "question": "What is the minimum grade required to pass an examination consisting of different modules?",
+      "answer": "A minimum grade of at least 4.0 is required on each module to pass an examination consisting of different modules."
+    },
+    {
+      "question": "Where can students find information about examination dates and times?",
+      "answer": "Students can find information about examination dates and times on CampusNet."
+    },
+    {
+      "question": "What are the consequences of failing to attend an examination without a valid excuse?",
+      "answer": "Failing to attend an examination without a valid excuse will result in an automatic grade of 'failed' 5.0."
+    },
+    {
+      "question": "Is it possible to withdraw from an examination?",
+      "answer": "As a rule, it is not possible to withdraw from an examination, and any unexcused absence will result in automatic failure."
+    },
+    {
+      "question": "Under what circumstances can students de-register from regular lectures and examinations?",
+      "answer": "Students can de-register from regular lectures and examinations if they are absent due to illness or have exceptional reasons, as outlined in the provided guidelines."
+    },
+    {
+      "question": "What is the deadline for submitting a 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' (PU) for illness-related absence?",
+      "answer": "The deadline for submitting a 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' (PU) for illness-related absence is 3 working days after the examination date."
+    },
+    {
+      "question": "What role do course credits play in the examination process?",
+      "answer": "Course credits are a prerequisite for participating in various examinations, reflecting active participation in lectures, seminars, and other activities."
+    },
+    {
+      "question": "How can students access the General Examination Regulations?",
+      "answer": "Students can access the General Examination Regulations by visiting the provided link on the university's website under 'Service' and then 'Notice'."
+    },
+    {
+      "question": "What action is taken if a student misses an examination without a valid excuse?",
+      "answer": "Missing an examination without a valid excuse will result in an automatic grade of 'failed' 5.0."
+    },
+    {
+      "question": "Can students register for regular lectures and examinations manually?",
+      "answer": "No, each student is automatically registered for regular lectures and examinations."
+    },
+    {
+      "question": "What is the significance of attendance in regular lectures and examinations?",
+      "answer": "Attendance is mandatory for regular lectures and examinations."
+    },
+    {
+      "question": "What is the process for de-registering from regular lectures and examinations due to illness?",
+      "answer": "To de-register due to illness, students must submit a 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' (PU) signed by a doctor within three working days after the examination date."
+    },
+    {
+      "question": "How far in advance must students submit a 'Deregistration Application' for de-registering from regular lectures and examinations due to exceptional reasons?",
+      "answer": "Students must submit a 'Deregistration Application' for exceptional reasons one week before the examination date."
+    },
+    {
+      "question": "Can students provide their own reasons for de-registering from regular lectures and examinations?",
+      "answer": "Yes, students can de-register for regular lectures and examinations due to exceptional reasons, as long as they meet the specified criteria and deadlines."
+    },
+    {
+      "question": "What is the purpose of the Group Number/Study Program?",
+      "answer": "The Group Number/Study Program serves to categorize students according to their specific study programs, such as Applied Computer Science or Applied Data Science and Analytics."
+    },
+    {
+      "question": "How are examinations graded within different modules?",
+      "answer": "Examinations within different modules are graded individually, and to pass an examination consisting of different modules, a minimum grade of 4.0 is required on each module."
+    },
+    {
+      "question": "What documentation is required to withdraw from an examination due to illness?",
+      "answer": "Students need to submit a 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' (PU) signed by a doctor as documentation for illness-related withdrawal."
+    },
+    {
+      "question": "How is active participation in lectures and seminars typically measured for earning course credits?",
+      "answer": "Active participation in lectures and seminars often involves fulfilling tasks during self-study time, engaging in group work, and completing other assignments."
+    },
+    {
+      "question": "What is the consequence of failing to achieve a grade of at least 4.0 on each module of an examination?",
+      "answer": "Failing to achieve a grade of at least 4.0 on each module of an examination results in an overall failure of the examination."
+    },
+    {
+      "question": "Where can students find detailed information about the structure and requirements of their examinations?",
+      "answer": "Detailed information about the structure and requirements of examinations can be found in the study and examination curriculum available on Moodle."
+    },
+    {
+      "question": "How are students notified of their examination grades?",
+      "answer": "Examination grades are entered into the campus portal and can be viewed by students via CampusNet."
+    },
+    {
+      "question": "Who should students contact if they have questions or concerns about their examination grades?",
+      "answer": "Students should contact the examination desk if they have questions or concerns about their examination grades."
+    },
+    {
+      "question": "Can students request to inspect previously written examinations?",
+      "answer": "Yes, students can request to inspect previously written examinations."
+    },
+    {
+      "question": "What is the purpose of the repeat examination?",
+      "answer": "The purpose of the repeat examination is to provide students with an opportunity to improve their grades if they have failed an examination."
+    },
+    {
+      "question": "What are some examples of exceptional reasons for de-registering from regular lectures and examinations?",
+      "answer": "Examples of exceptional reasons include personal emergencies, unforeseen circumstances, or significant conflicts with other obligations."
+    },
+    {
+      "question": "How are examination grades communicated to students?",
+      "answer": "Examination grades are communicated to students through the campus portal and CampusNet."
+    },
+    {
+      "question": "What is the possibility provided for students who have missed or failed an examination?",
+      "answer": "Students have the option to re-sit the examination."
+    },
+    {
+      "question": "How many re-sits are allowed for module or sub-module examinations according to the study and examination regulations?",
+      "answer": "The regulations allow for one re-sit of module or sub-module examinations."
+    },
+    {
+      "question": "Can examinations that have already been passed be repeated?",
+      "answer": "No, examinations that have already been passed cannot be repeated."
+    },
+    {
+      "question": "How can students register for re-examinations?",
+      "answer": "Students must register themselves for re-examinations and can find the registration form and deadline on the Moodle site."
+    },
+    {
+      "question": "Is it possible to de-register from re-examinations without providing a reason?",
+      "answer": "Yes, students have the option to deregister from re-examinations without giving a reason."
+    },
+    {
+      "question": "What action should be taken if a student is unable to attend an examination due to illness?",
+      "answer": "The student must notify the examination desk and submit a notification of sickness form within 3 working days."
+    },
+    {
+      "question": "What is the required documentation for illness-related absence from an examination?",
+      "answer": "The required documentation is a 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' (certificate of inability to take part in the examination), filled out by a doctor."
+    },
+    {
+      "question": "Besides email, what other methods can be used to submit the notification of sickness form?",
+      "answer": "The form can be submitted via the examination office mailbox or by post to the address provided."
+    },
+    {
+      "question": "What should the doctor state on the 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' form?",
+      "answer": "The doctor should state the symptoms that justify the student's inability to take part in the examination."
+    },
+    {
+      "question": "Why is a medical certificate alone not considered sufficient for illness-related absence from an examination?",
+      "answer": "A medical certificate alone is not sufficient because it does not provide detailed justification for the inability to take part in the examination."
+    },
+    {
+      "question": "What is the consequence of missing an exam without providing a written excuse?",
+      "answer": "Missing an exam without a written excuse will result in automatic failure."
+    },
+    {
+      "question": "How many days do students have to submit the notification of sickness form after missing an examination due to illness?",
+      "answer": "Students have 3 working days to submit the form."
+    },
+    {
+      "question": "Where can students find the 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' form?",
+      "answer": "The form can be found next door to room arc217 or online in Moodle."
+    },
+    {
+      "question": "What is the email address for the Examination Office IMD?",
+      "answer": "The email address is HSHDimd@srh.de."
+    },
+    {
+      "question": "What is the postal address for submitting the 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' form?",
+      "answer": "The postal address is SRH Hochschule Heidelberg, Fakult\u00e4t IMD - Mai Fleischer, Ludwig-Guttmann-Str. 6, 69123 Heidelberg."
+    },
+    {
+      "question": "How are students notified of the registration deadline for re-examinations?",
+      "answer": "Students can find the registration deadline on the Moodle site."
+    },
+    {
+      "question": "Is there a penalty for missing the registration deadline for re-examinations?",
+      "answer": "Missing the registration deadline may result in students being unable to re-sit the examination."
+    },
+    {
+      "question": "Can students re-sit an examination if they have already passed it?",
+      "answer": "No, examinations that have already been passed cannot be re-sat."
+    },
+    {
+      "question": "What should students do if they are unable to attend an examination due to unforeseen circumstances?",
+      "answer": "Students should notify the examination desk and provide appropriate documentation to support their absence."
+    },
+    {
+      "question": "How many working days do students have to submit documentation for unforeseen circumstances?",
+      "answer": "Students have a limited number of working days to submit documentation, as specified in the regulations."
+    },
+    {
+      "question": "What actions can students take if they realize they won't be able to attend an examination after the deadline for de-registration has passed?",
+      "answer": "Students should contact the examination desk immediately to discuss their options."
+    },
+    {
+      "question": "What is the role of the examination desk in handling student requests related to examinations?",
+      "answer": "The examination desk is responsible for organizing examinations and assisting students with matters related to their examination process."
+    },
+    {
+      "question": "Can students appeal the decision of the examination desk regarding examination-related matters?",
+      "answer": "Yes, students may have the option to appeal decisions made by the examination desk, depending on the circumstances."
+    },
+    {
+      "question": "How are students informed of the outcome of their appeal regarding examination-related matters?",
+      "answer": "Students are typically informed of the outcome of their appeal through official communication channels, such as email or postal mail."
+    },
+    {
+      "question": "What recourse do students have if they disagree with the decision of the examination desk?",
+      "answer": "Students may have the option to escalate their concerns through formal channels within the university."
+    },
+    {
+      "question": "What is the purpose of the registration process for re-examinations?",
+      "answer": "The registration process for re-examinations ensures that students who wish to re-sit an examination are properly accounted for and accommodated."
+    },
+    {
+      "question": "Can students re-sit examinations for modules they have previously failed?",
+      "answer": "Yes, students have the opportunity to re-sit examinations for modules they have failed, subject to the regulations outlined in the study and examination guidelines."
+    },
+    {
+      "question": "Where can students find the necessary forms and deadlines for de-registering from re-examinations?",
+      "answer": "Students can find the forms and deadlines for de-registering from re-examinations on the Moodle website provided by the university."
+    },
+    {
+      "question": "What are the consequences of failing to de-register from a re-examination before the deadline?",
+      "answer": "Failing to de-register from a re-examination before the deadline may result in the student being listed as a candidate for the examination and possibly receiving a grade."
+    },
+    {
+      "question": "How does the examination desk handle non-attendance at examinations?",
+      "answer": "The examination desk manages non-attendance by providing guidelines and procedures for notifying them of absences due to illness or other exceptional circumstances."
+    },
+    {
+      "question": "Besides email, what other methods can students use to notify the examination desk of their inability to attend an examination?",
+      "answer": "Students can notify the examination desk via mail, through the examination office mailbox, or by submitting the required documentation in person."
+    },
+    {
+      "question": "What is the significance of submitting the 'Pr\u00fcfungsunf\u00e4higkeitsbescheinigung' form within 3 working days?",
+      "answer": "Submitting the form within 3 working days ensures that students provide timely documentation to support their absence from the examination."
+    },
+    {
+      "question": "How does the university ensure fairness in handling absences from examinations?",
+      "answer": "The university requires students to provide valid documentation for their absences, ensuring that all cases are treated fairly and consistently."
+    },
+    {
+      "question": "What actions can students take to avoid automatic failure if they are unable to attend an examination?",
+      "answer": "Students can ensure they submit the required documentation and notify the examination desk within the specified timeframe to avoid automatic failure."
+    },
+    {
+      "question": "What recourse do students have if they believe they were unfairly graded due to missing an examination?",
+      "answer": "Students can appeal the grading decision through the university's established appeals process, providing evidence and documentation to support their case."
+    },
+    {
+      "question": "How does the university handle appeals related to examination grades?",
+      "answer": "The university typically reviews appeals through an established committee or process, ensuring that each case is thoroughly evaluated and resolved fairly."
+    },
+    {
+      "question": "What role do examination regulations play in governing the re-examination process?",
+      "answer": "Examination regulations outline the rules and procedures for re-examinations, ensuring consistency and fairness in the process."
+    },
+    {
+      "question": "Can students re-sit an examination multiple times if they continue to fail?",
+      "answer": "Generally, students are allowed one re-sit opportunity for each examination, as per the regulations outlined by the university."
+    },
+    {
+      "question": "How does the university verify the authenticity of documentation submitted for illness-related absences?",
+      "answer": "The university may require students to provide additional verification or documentation, such as medical records or verification from a healthcare professional, to validate their absence."
+    },
+    {
+      "question": "What support services are available to students who experience difficulty with the re-examination process?",
+      "answer": "The university may offer support services, such as academic advising or counseling, to assist students who encounter challenges with the re-examination process."
+    },
+    {
+      "question": "How are grades announced to students?",
+      "answer": "Grades are entered into the campus portal as soon as they are available, and students can view their own grades via CampusNet."
+    },
+    {
+      "question": "What is the grading scale used for examinations?",
+      "answer": "Examinations are graded on a scale ranging from 1.0 to 5.0, with decimal values representing different performance levels."
+    },
+    {
+      "question": "What is the range for an 'Outstanding' performance grade?",
+      "answer": "An 'Outstanding' performance grade ranges from 1.0 to 1.2."
+    },
+    {
+      "question": "What performance level corresponds to a grade of 1.3 to 1.5?",
+      "answer": "A performance well above average corresponds to grades ranging from 1.3 to 1.5."
+    },
+    {
+      "question": "What is the range for a 'Good' performance grade?",
+      "answer": "A 'Good' performance grade ranges from 1.6 to 2.5."
+    },
+    {
+      "question": "At what performance level is a grade considered 'Satisfactory'?",
+      "answer": "A 'Satisfactory' performance grade corresponds to a range of 2.6 to 3.5."
+    },
+    {
+      "question": "What grade range indicates that a performance meets requirements despite deficiencies?",
+      "answer": "A grade range of 3.6 to 4.0 indicates that performance still meets requirements despite deficiencies."
+    },
+    {
+      "question": "What is the grade assigned for performance that no longer meets requirements due to serious deficiencies?",
+      "answer": "Performance graded as 'Not sufficient' is assigned a grade of 5.0."
+    },
+    {
+      "question": "What is the minimum score required to pass an exam?",
+      "answer": "As a rule of thumb, students must score at least 50% of the attainable points to pass an exam."
+    },
+    {
+      "question": "Who determines the assignment of points to grades for examinations?",
+      "answer": "The responsible examiner defines and makes public the assignment of points to grades for examinations."
+    },
+    {
+      "question": "What happens if a student's examination is graded lower than 4.0 twice in a row?",
+      "answer": "If a student's examination is graded lower than 4.0 twice in a row, they will have exhausted their two chances and must submit a hardship application for further consideration."
+    },
+    {
+      "question": "Who decides whether a student will be granted one more chance after exhausting their two chances for an examination?",
+      "answer": "The examination committee decides whether a student will be granted one more chance after exhausting their two chances for an examination."
+    },
+    {
+      "question": "Where can students find information on the hardship application process?",
+      "answer": "Information on the hardship application process can be found on the next page or through university resources."
+    },
+    {
+      "question": "Besides examinations, what other kinds of graded work may require individual arrangements?",
+      "answer": "Other kinds of graded work, such as presentations and projects, may require individual arrangements."
+    },
+    {
+      "question": "What advice is given to students regarding their web-mail account?",
+      "answer": "Students are advised to check their SRH web-mail account regularly to avoid missing important appointments or communications."
+    },
+    {
+      "question": "How are grades communicated to students once they are available?",
+      "answer": "Grades are communicated to students through the campus portal, where they can access their own grades via CampusNet."
+    },
+    {
+      "question": "What is the highest decimal value that indicates a satisfactory performance?",
+      "answer": "A satisfactory performance is indicated by a decimal value ranging from 2.6 to 3.5."
+    },
+    {
+      "question": "In the event of repeated examination failures, what is the next step for students?",
+      "answer": "After repeated examination failures, students must submit a hardship application for further consideration by the examination committee."
+    },
+    {
+      "question": "What should students do if they have concerns about their examination grades?",
+      "answer": "Students should review the grading criteria and consult with their instructors or academic advisors if they have concerns about their examination grades."
+    },
+    {
+      "question": "Can students request a review of their examination grades?",
+      "answer": "Yes, students may request a review of their examination grades if they believe there has been an error or if they have concerns about the grading process."
+    },
+    {
+      "question": "What is the purpose of the examination committee?",
+      "answer": "The examination committee is responsible for reviewing student performance, determining examination outcomes, and addressing student concerns or appeals."
+    },
+    {
+      "question": "How often should students check their SRH web-mail account?",
+      "answer": "Students should check their SRH web-mail account regularly to stay updated on important announcements, appointments, and communications from the university."
+    },
+    {
+      "question": "What factors are considered when determining whether a student will be granted an additional chance for an examination?",
+      "answer": "Factors such as previous examination performance, individual circumstances, and the nature of the hardship application are considered when determining whether a student will be granted an additional chance for an examination."
+    },
+    {
+      "question": "What is the consequence of failing to submit a hardship application after exhausting two chances for an examination?",
+      "answer": "Failing to submit a hardship application after exhausting two chances for an examination may result in the student not being granted another opportunity to re-sit the examination."
+    },
+    {
+      "question": "How do examination regulations contribute to the fairness and consistency of the examination process?",
+      "answer": "Examination regulations outline the rules and procedures that govern the examination process, ensuring fairness, consistency, and transparency in how examinations are conducted and evaluated."
+    },
+    {
+      "question": "Where can students inquire about administrative and legal issues related to their hardship application?",
+      "answer": "Students can make inquiries at the department examination desk by contacting Mai Fleischer at mai.fleischer@srh.de."
+    },
+    {
+      "question": "What type of issues can students seek clarification on at the department examination desk?",
+      "answer": "Students can seek clarification on administrative and legal issues pertaining to their hardship application, such as submission deadlines, documentation requirements, and appeal processes."
+    },
+    {
+      "question": "Who is the contact person for inquiries regarding administrative and legal matters of the application?",
+      "answer": "Mai Fleischer is the contact person for inquiries regarding administrative and legal matters of the application, and they can be reached via email at mai.fleischer@srh.de."
+    },
+    {
+      "question": "What should students do if they have questions about the application process beyond its submission?",
+      "answer": "Students should contact Mai Fleischer at the department examination desk for further details and guidance on administrative and legal matters concerning their application."
+    },
+    {
+      "question": "Is it necessary for students to contact the department examination desk after submitting their hardship application?",
+      "answer": "Students may need to contact the department examination desk for clarification on any administrative or legal issues that arise during the processing of their application."
+    },
+    {
+      "question": "How can students ensure they have all the necessary information regarding their hardship application?",
+      "answer": "By reaching out to Mai Fleischer at the department examination desk, students can ensure they have comprehensive information regarding the administrative and legal aspects of their application."
+    },
+    {
+      "question": "What role does Mai Fleischer play in the hardship application process?",
+      "answer": "Mai Fleischer provides assistance and guidance to students regarding administrative and legal matters related to their hardship application."
+    },
+    {
+      "question": "Are there specific office hours for inquiries at the department examination desk?",
+      "answer": "Office hours for inquiries at the department examination desk may vary, and students are encouraged to contact Mai Fleischer via email for assistance."
+    },
+    {
+      "question": "Can students schedule appointments for in-person consultations regarding their hardship application?",
+      "answer": "Students may be able to schedule appointments for in-person consultations with Mai Fleischer at the department examination desk, depending on availability and scheduling arrangements."
+    },
+    {
+      "question": "What information should students provide when contacting Mai Fleischer about their hardship application?",
+      "answer": "Students should provide their name, student ID, and specific questions or concerns regarding the administrative and legal aspects of their hardship application when contacting Mai Fleischer."
+    },
+    {
+      "question": "What types of examinations are mentioned in the provided information?",
+      "answer": "The types of examinations mentioned include written exams, oral exams, seminar papers, reports/presentations, projects, roleplays, case studies, essays, tests, combination exams, synopses, learning diaries, portfolios, practical project reports, project works, protocols, moderations, colloquiums, theses, internship reports, and practical works."
+    },
+    {
+      "question": "What is the instruction regarding displaying your student card during examinations?",
+      "answer": "Students are instructed to prominently display their student card on their desk during examinations."
+    },
+    {
+      "question": "How should students handle their bags, jackets, and electronic devices during examinations?",
+      "answer": "Students must place their bags, jackets, and electronic devices out of reach and pack their mobile phones and laptops into their bags, which should be deposited at the side of the room."
+    },
+    {
+      "question": "What should students do at the beginning of an exam regarding their personal information?",
+      "answer": "At the beginning of the exam, students should write their name and matriculation number on each sheet of paper and ensure that their examination documents are complete."
+    },
+    {
+      "question": "What should students do if they require additional paper during an exam?",
+      "answer": "Students must request further answer sheets from the exam supervisor and ensure to write their name and matriculation number on all supplementary sheets."
+    },
+    {
+      "question": "How should students indicate their need to use the bathroom during an exam?",
+      "answer": "Students should raise their arm to inform the person coordinating the examination if they need to leave the room to use the bathroom."
+    },
+    {
+      "question": "What is the rule regarding leaving the examination room to use the bathroom?",
+      "answer": "Students are not allowed to hand in their paper and leave the room until 30 minutes before the regular examination time is up to ensure that every examinee has the opportunity to use the bathroom."
+    },
+    {
+      "question": "What are the consequences of copying from a neighbor or letting a neighbor copy during an exam?",
+      "answer": "Copying from a neighbor or letting a neighbor copy one's text is considered an attempt to cheat, resulting in the exam being graded as failed. Any other form of cheating, such as using a smartphone, also leads to failure of the exam."
+    },
+    {
+      "question": "Where can students find information on the rules and hints for participating in examinations?",
+      "answer": "Students can find information on the rules and hints for participating in examinations in the provided context."
+    },
+    {
+      "question": "What is the purpose of displaying the student card during examinations?",
+      "answer": "Displaying the student card helps verify the identity of the student taking the examination."
+    },
+    {
+      "question": "Why are bags, jackets, and electronic devices required to be placed out of reach during exams?",
+      "answer": "This measure is taken to prevent students from accessing unauthorized materials or assistance during the examination."
+    },
+    {
+      "question": "What should students do if they notice any missing examination documents at the beginning of the exam?",
+      "answer": "Students should notify the exam supervisor immediately if they find any missing examination documents."
+    },
+    {
+      "question": "What services can students access using their Smartcard (student card)?",
+      "answer": "Students can use their Smartcard for parking and paying at the canteen (CUBE), with the option to recharge the card at the canteen."
+    },
+    {
+      "question": "Where can students find manuals for IT-related support and services?",
+      "answer": "Students can find manuals for IT-related support and services on the campus website at https://campus.hochschule-heidelberg.de."
+    },
+    {
+      "question": "What is the purpose of the consultation hour for students regarding IT support?",
+      "answer": "The consultation hour allows students to seek assistance with IT-related issues, with specific times allocated from Monday to Thursday."
+    },
+    {
+      "question": "How can students contact IT support in exceptional cases?",
+      "answer": "In exceptional cases, students can contact IT support via email at info.hshd@srh.de."
+    },
+    {
+      "question": "What are the available web applications for students?",
+      "answer": "Web applications available for students include E-Mail and Office365, accessible through the campus web portal."
+    },
+    {
+      "question": "How can students access their emails?",
+      "answer": "Students can access their emails by logging in to the campus web portal using their matriculation number followed by @stud.hochschule-heidelberg.de and the standard password."
+    },
+    {
+      "question": "What is the purpose of the SRH Hochschule Heidelberg mobile app?",
+      "answer": "The mobile app provides access to various functions such as schedules, documents, personal data, and applications related to studies."
+    },
+    {
+      "question": "Where can students register for access to the university's in-house network?",
+      "answer": "Students can register for access to the university's in-house network at PC rooms of respective faculties or at the central library."
+    },
+    {
+      "question": "How can students reset their password if forgotten?",
+      "answer": "Students can request a new password by entering their username and clicking 'Send' on the campus website."
+    },
+    {
+      "question": "What must students ensure to use the password reset feature?",
+      "answer": "Students must keep their private email address up-to-date in the campus web portal to use the password reset feature."
+    },
+    {
+      "question": "What is the validity period of the password reset link?",
+      "answer": "The password reset link is valid for 48 hours from the time it is sent to the student's private email address."
+    },
+    {
+      "question": "What are the rules for creating a new password?",
+      "answer": "The password must not contain parts of the student's first or last name, must have at least 14 characters, and must include at least three of the following: Latin upper case letters, Latin lower case letters, numbers, and certain characters."
+    },
+    {
+      "question": "What is CITRIX Remote desktop used for?",
+      "answer": "CITRIX Remote desktop provides access to a fully-fledged Windows desktop with access to internal resources and personal drive."
+    },
+    {
+      "question": "How can students download Office365?",
+      "answer": "Students can download Office365 for free by following the steps provided on the campus website."
+    },
+    {
+      "question": "What is the username and password for accessing the university's in-house network?",
+      "answer": "The username for accessing the in-house network is BYOD, and the password is zFqzKADxyjNc6EJ4."
+    },
+    {
+      "question": "What are the available methods for registering at various systems or environments?",
+      "answer": "Students can register using their matriculation number followed by @stud.hochschule-heidelberg.de for systems such as the campus web portal, Windows, E-Mail/Web applications, and Citrix remote desktop."
+    },
+    {
+      "question": "What precautions should students take while creating a new password?",
+      "answer": "Students should avoid using parts of their first or last name and ensure the password meets the specified length and complexity requirements."
+    },
+    {
+      "question": "What resources are available for IT support?",
+      "answer": "Students can seek assistance from fellow students during consultation hours or contact IT support via email for exceptional cases."
+    },
+    {
+      "question": "Where can students find the SRH Hochschule Heidelberg mobile app?",
+      "answer": "The SRH Hochschule Heidelberg mobile app is available for download on both Apple and Android devices."
+    },
+    {
+      "question": "What are the contact details for IT support?",
+      "answer": "IT support can be reached during consultation hours at the Tower, Ludwig-Guttmann-Str. 6, or via email at info.hshd@srh.de in exceptional cases."
+    },
+    {
+      "question": "What is the purpose of the Introduction to IT session at SRH Hochschule Heidelberg?",
+      "answer": "The Introduction to IT session familiarizes students with various IT-related services and resources available at the university."
+    },
+    {
+      "question": "How can students access their class schedules?",
+      "answer": "Students can access their class schedules through the campus web portal or the mobile app provided by SRH Hochschule Heidelberg."
+    },
+    {
+      "question": "What services are available through the SRH Hochschule Heidelberg mobile app?",
+      "answer": "The mobile app provides access to essential functions such as class schedules, personal documents, and application forms, enhancing students' convenience."
+    },
+    {
+      "question": "Where can students register for access to the university's in-house network if they encounter difficulties?",
+      "answer": "Students facing registration difficulties for the in-house network can seek assistance from the secretariat of their respective faculties."
+    },
+    {
+      "question": "What is the procedure for resetting a forgotten password?",
+      "answer": "To reset a forgotten password, students need to enter their username on the campus website, receive a reset link via email, and follow the instructions within 48 hours."
+    },
+    {
+      "question": "How does the university ensure password security during resets?",
+      "answer": "To ensure password security, the university requires passwords to be of sufficient length and complexity, prohibiting the use of certain characters and parts of the student's name."
+    },
+    {
+      "question": "What are the benefits of CITRIX Remote desktop for students?",
+      "answer": "CITRIX Remote desktop provides students with access to a comprehensive Windows desktop environment, including personal drives and additional programs like SPSS."
+    },
+    {
+      "question": "What support options are available for students experiencing IT-related issues?",
+      "answer": "Students can seek assistance from their peers, attend consultation hours, or contact IT support via email for exceptional cases, ensuring comprehensive support for all students."
+    },
+    {
+      "question": "How can students access their university emails remotely?",
+      "answer": "Students can access their university emails remotely by logging into the campus web portal using their credentials and selecting the email option."
+    },
+    {
+      "question": "What are the main objectives of the internship, as mentioned in \u00a71 of the Internship Regulations?",
+      "answer": "The main objectives of the internship include professional orientation, introduction to course-specific sectors or companies, and successful entry into the working life."
+    },
+    {
+      "question": "In what semester does the practical phase of study typically begin, and what conditions must be met for admission, according to the Internship Regulations?",
+      "answer": "The practical phase of study typically begins in the 3rd, 4th, 5th, or 6th semester, and for admission, students must successfully complete all examinations of the 1st and 2nd semesters, unless exceptions are justified to the head of the academic section."
+    },
+    {
+      "question": "What is the role of the supervisor within a company during the internship, as outlined in \u00a74?",
+      "answer": "The supervisor within a company acts as the main contact person for technical and organizational concerns and provides appropriate internal support and a reasonable organizational assignment."
+    },
+    {
+      "question": "How is the internship report evaluated, according to the Internship Regulations?",
+      "answer": "The internship report is examined by the faculty's supervisor, who evaluates the requirements and achievements before passing it on to the Internship Office."
+    },
+    {
+      "question": "What is the approximate length requirement for the internship report, excluding illustrations and attachments, as stated in \u00a77?",
+      "answer": "The internship report should cover approximately 20 pages of text, excluding illustrations, tables, and other attachments."
+    },
+    {
+      "question": "What are the documents required to verify the success of the practical phase, as mentioned in \u00a78?",
+      "answer": "The internship contract, certificate of the internship, internship report, and a presentation about the completed internship are required to verify the success of the practical phase."
+    },
+    {
+      "question": "Who approves the application for the internship, based on the specifications outlined in \u00a74?",
+      "answer": "The head of the study program examines and approves the application for the internship."
+    },
+    {
+      "question": "What are the preconditions for a scientific examination of the internship contents, as mentioned in \u00a71?",
+      "answer": "A scientific examination of the internship contents may be required, for example, in the form of a written elaboration, to link the practical phase with the scientific requirements of the study."
+    },
+    {
+      "question": "Can practical activities prior to the start of studies or throughout a holiday semester be recognized as an internship according to \u00a72?",
+      "answer": "No, practical activities prior to the start of studies or throughout a holiday semester cannot be recognized as an internship."
+    },
+    {
+      "question": "Who is responsible for managing the internship applications and controlling the procedures, as per \u00a75?",
+      "answer": "The Internship Office ('Praktikantenamt') manages the internship applications and controls the procedures together with the Examination Office."
+    },
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "question": "how can you help me?",
+      "answer": "I can help you with information related to srh university examination , internship, and other general information"
+    },
+    {
+      "question": "i just wanted to know, what minumum grade is required to pass the examination",
+      "answer": "\"A minimum grade of at least 4.0 is required on each module to pass an examination"
+    },
+    {
+      "question": "how can i apply for internship",
+      "answer": "you can contact internship office at university"
+    },
+    {
+      "question": "where can i find my grades",
+      "answer": "Examination grades are communicated to students through the campus portal and CampusNet."
+    },
+    {
+      "question": "how are you",
+      "answer": "I am doing good, thank you what about you?"
+    }
+  ]
+}
