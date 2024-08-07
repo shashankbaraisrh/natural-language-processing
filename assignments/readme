@@ -1,30 +1,36 @@
-Assignments: Regular Expressions and Text Preprocessing
 
-1. Create a Python program that reads a text file and prints all the email
-addresses found in the file using regular expressions. Extend the program to
-extract and print domain names of the email addresses found.
+Text Processing and Regular Expressions Assignments
 
-2. Write a Python program that reads a text file containing a list of phone
-numbers in various formats (e.g., (123) 456-7890, 123-456-7890,
-123.456.7890) and converts them to a standardized format (e.g., 1234567890)
-using regular expressions. Handle country codes and different variations of
-phone number formats.
+Email Extraction and Domain Extraction:
 
-3. Develop a Python script that extracts all the URLs from a given HTML
-document using regular expressions.
+Task: Extracts and prints all email addresses from a text file, and then extracts and prints the domain names from those email addresses.
+Usage: Reads a text file, uses regular expressions to find email addresses, and parses the domain names.
 
-4. Write a Python program that extracts all the hashtags from a given tweet
-using regular expressions.
+Phone Number Standardization:
 
-5. Collect a research paper containing texts from a specific domain (e.g., medical,
-legal, technical). Apply stemming and lemmatization to this domain-specific
-text and analyze how it differs from processing general-purpose text.
+Task: Converts various phone number formats to a standardized format (1234567890) using regular expressions.
+Usage: Reads a text file with phone numbers, handles different formats and country codes, and outputs standardized phone numbers.
+URL Extraction from HTML:
 
-6. Develop an interactive Python application using Tkinter or PyQt that allows
-users to input text and view the stemmed or lemmatized output along with
-the original words.
+Task: Extracts all URLs from a given HTML document using regular expressions.
+Usage: Reads an HTML document and uses regular expressions to find and print all URLs.
 
-7. Write a Python script that continuously monitors a text stream (e.g., news
-articles from RSS feeds) and performs stemming and lemmatization on new
-incoming texts in real-time. Display the processed text along with some
-statistics (e.g., most common stems or lemmas).
+Hashtag Extraction from Tweets:
+
+Task: Extracts all hashtags from a given tweet using regular expressions.
+Usage: Processes a tweet and identifies all hashtags present.
+
+Domain-Specific Text Processing:
+
+Task: Applies stemming and lemmatization to domain-specific text (e.g., medical, legal, technical) and compares it with general-purpose text processing.
+Usage: Analyzes a research paper and demonstrates differences in text preprocessing techniques.
+
+Interactive Text Processing Application:
+
+Task: Provides an interactive interface using Tkinter or PyQt for users to input text and view stemmed or lemmatized output alongside the original words.
+Usage: Allows users to see the effects of stemming and lemmatization on input text through a GUI.
+
+Real-time Text Stream Processing:
+
+Task: Monitors a continuous text stream (e.g., news RSS feeds) and performs real-time stemming and lemmatization, displaying processed text and statistics.
+Usage: Continuously processes incoming text, updates statistics, and provides insights into the most common stems or lemmas.
